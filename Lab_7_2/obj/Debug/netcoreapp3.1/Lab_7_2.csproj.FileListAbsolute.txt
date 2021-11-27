@@ -1,0 +1,14 @@
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\bin\Debug\netcoreapp3.1\Lab_7_2.exe
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\bin\Debug\netcoreapp3.1\Lab_7_2.deps.json
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\bin\Debug\netcoreapp3.1\Lab_7_2.runtimeconfig.json
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\bin\Debug\netcoreapp3.1\Lab_7_2.runtimeconfig.dev.json
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\bin\Debug\netcoreapp3.1\Lab_7_2.dll
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\bin\Debug\netcoreapp3.1\Lab_7_2.pdb
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\obj\Debug\netcoreapp3.1\Lab_7_2.csproj.AssemblyReference.cache
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\obj\Debug\netcoreapp3.1\Lab_7_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\obj\Debug\netcoreapp3.1\Lab_7_2.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\obj\Debug\netcoreapp3.1\Lab_7_2.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\obj\Debug\netcoreapp3.1\Lab_7_2.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\obj\Debug\netcoreapp3.1\Lab_7_2.dll
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\obj\Debug\netcoreapp3.1\Lab_7_2.pdb
+C:\Users\Daniil\source\repos\Lab_7_1\Lab_7_2\obj\Debug\netcoreapp3.1\Lab_7_2.genruntimeconfig.cache
